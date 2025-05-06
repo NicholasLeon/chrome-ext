@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Live anime eyes Chrome Theme",
+  "description": "Personalized new tab with video background",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "custom.html"
+  },
+  "icons": {
+    "128": "assets/icon128.png"
+  }
+}
